@@ -1,5 +1,5 @@
-# Zhikang Liu @KristoffLiu
-### Hi there 👋
+# Zhikang Liu @KristoffLiu  
+### Hi there 👋 [查看简体中文版](readme_cn.md)
 Hello, I am an undergraduate student who is currently studying Computer Science in University Of York.
 
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=KristoffLiu&layout=compact)
