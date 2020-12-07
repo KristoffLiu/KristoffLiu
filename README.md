@@ -13,7 +13,7 @@ RoboMaster Java Simulator - Currently Closed Source.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KristoffLiu&repo=Lepton-Browser)](https://github.com/KristoffLiu/Lepton-Browser)
 
 ### Cross-Platform Project
-LGO - Life Gamification Online 游戏人生化项目
+LGO - Life Gamification Online
 
 ## Undergraduate University Projects List
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KristoffLiu&repo=YorkCSSolution)](https://github.com/KristoffLiu/YorkCSSolution)
