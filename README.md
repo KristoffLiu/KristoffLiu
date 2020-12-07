@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KristoffLiu)](https://github.com/anuraghazra/github-readme-stats)
+
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=KristoffLiu&layout=compact)
 
 <!--
