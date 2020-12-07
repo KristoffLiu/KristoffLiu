@@ -1,29 +1,29 @@
-# Zhikang Liu @KristoffLiu
-### Hi there 👋
-Hello, I am an undergraduate student who is currently studying Computer Science in University Of York.
+# 刘智康 @KristoffLiu
+### 嘿~ 👋 [Read In English](README.md)
+
+大家好，我是一名正在就读于英国约克大学计算机科学专业二年级的本科生。
 
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=KristoffLiu&layout=compact)
 
-## Research Projects List
-RoboMaster Java Simulator - Currently Closed Source.
+## 研究项目列表
+RoboMaster Java Simulator - 目前仍然处于闭源.
 
-## Personal Application Projects
-### UWP Apps Only List
+## 个人软件项目列表
+### UWP Apps Only List - 只有UWP平台的软件列表
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KristoffLiu&repo=Lepton-Dictionary)](https://github.com/KristoffLiu/Lepton-Dictionary)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KristoffLiu&repo=Lepton-Browser)](https://github.com/KristoffLiu/Lepton-Browser)
 
-### Cross-Platform Project
+### 跨平台软件列表
 LGO - Life Gamification Online 游戏人生化项目
 
-## Undergraduate University Projects List
+## 大学本科项目列表
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KristoffLiu&repo=YorkCSSolution)](https://github.com/KristoffLiu/YorkCSSolution)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KristoffLiu&repo=ENG1Team23)](https://github.com/KristoffLiu/ENG1Team23)
 
-## About me
-
+## 关于我
 ![About me](https://github-readme-stats.vercel.app/api?username=KristoffLiu&show_icons=true)
 
 - E-Mail: [zhikangliu@hotmail.com](mailto:zhikangliu@hotmail.com)
-- BiliBili: [在英国的小智](https://space.bilibili.com/30742200)
+- BiliBili账号: [在英国的小智](https://space.bilibili.com/30742200)
 <!-- - Personal site: [无](无) -->
 <!-- - Blogs: [Blog site](https://blog.richasy.cn) -->
