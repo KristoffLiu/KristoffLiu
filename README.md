@@ -4,7 +4,13 @@ Hello, I am an undergraduate student who is currently studying Computer Science 
 
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=KristoffLiu&layout=compact)
 
+## Research Project List
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KristoffLiu&repo=RoboMaster-Java-Simulator)](https://github.com/anuraghazra/github-readme-stats)
+
 ## UWP App List
+
+## Undergraduate University Projects List
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KristoffLiu&repo=ENG1Team23)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 
